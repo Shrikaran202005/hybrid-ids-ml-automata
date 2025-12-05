@@ -1,5 +1,6 @@
 🚨 Hybrid Intrusion Detection System (IDS)
 Deep Learning + Automata-Based Detection | CICIDS2017 | Streamlit Dashboard
+
 📌 Project Overview
 
 This project presents a Hybrid Intrusion Detection System (IDS) that integrates:
